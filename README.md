@@ -1,1 +1,1 @@
-# Projects_Data_Science
+# Passenger Survival Prediction on Titanic
